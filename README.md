@@ -8,3 +8,4 @@ Un Blog Increíble para el curso de Git y Github de Platzi
 - Utilizar Dominios Personalizados con GitHub Pages
 - Aplicar un flujo de trabajo profesional en tus proyectos
 - Trabajar con múltiples entornos de trabajo de código abierto
+- Creado por el increíble yo
