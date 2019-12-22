@@ -9,3 +9,4 @@ Un Blog Increíble para el curso de Git y Github de Platzi
 - Aplicar un flujo de trabajo profesional en tus proyectos
 - Trabajar con múltiples entornos de trabajo de código abierto
 - Creado por el increíble yo
+- Incluye ejemplos de muchas plataformas
