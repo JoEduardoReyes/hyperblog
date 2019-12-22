@@ -10,3 +10,4 @@ Un Blog Increíble para el curso de Git y Github de Platzi
 - Trabajar con múltiples entornos de trabajo de código abierto
 - Creado por el increíble yo
 - Incluye ejemplos de muchas plataformas
+- Disponible para todas las edades
